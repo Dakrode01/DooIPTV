@@ -7,6 +7,10 @@
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Monomax01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX1 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax01bkp_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX1 (githubสำรอง)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -20,6 +24,10 @@ https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Monomax02.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX2 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax02bkp_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX2 (githubสำรอง)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -36,6 +44,10 @@ https://www.livedoomovies.com:4431/Monomax_PL_2HD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Monomax03.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX3 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax03bkp_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX3 (githubสำรอง)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -50,6 +62,10 @@ https://www.livedoomovies.com:4431/Monomax_PL_3HD/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Monomax04.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX4 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax04bkp_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX4 (githubสำรอง)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -63,6 +79,10 @@ https://www.livedoomovies.com:4431/Monomax_PL_4HD/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Monomax05.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX5 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax05bkp_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX5 (githubสำรอง)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
@@ -92,6 +112,10 @@ https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Mono Max6.m3u8
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Monomax07.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX7 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax07bkp_720/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX7 (githubสำรอง)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
@@ -101,6 +125,10 @@ https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Mono Max7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://github.com/
 https://github.com/Dakrode01/Freeiptv/raw/refs/heads/main/Monomax08.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",MONOMAX8 (สำรอง)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://love.bajikag863.workers.dev/lx-origin/th-monomax08bkp_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2025/10/27/ebbad850-b303-11f0-b265-23dfa726a2d7_webp_original.webp" group-title="ช่องกีฬา",TruePremierFootball3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
