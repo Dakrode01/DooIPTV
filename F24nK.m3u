@@ -333,3 +333,12 @@ https://www.livedoomovies.com:4431/Monomax_Live_1HD/playlist.m3u8?
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://stereomax.shop/dookeela/tsp1/chunks.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",TRUEsport7 (Dookeela)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://floral-night-e2a4.dookeela.workers.dev/edge/tsp7/playlist.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",HBO (88-hd)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://stereomax.shop/dookeela/hbo/chunks.m3u8
+
+
