@@ -182,11 +182,11 @@ https://love.5qlartdrpf.workers.dev/lx-origin/th-tsporthd3_720/chunks.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://119.59.118.168/live/ch11/thailosonic2026/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport3.png" group-title="ช่องกีฬา",TrueSportHD4 
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png" group-title="ช่องกีฬา",TrueSportHD4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://love.9xrie8ecms.workers.dev/lx-origin/hd-tsport4_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport3.png" group-title="ช่องกีฬา",TrueSportHD4 (thailosonic)
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-tsport4.png" group-title="ช่องกีฬา",TrueSportHD4 (thailosonic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 http://119.59.118.168/live/ch12/thailosonic2026/index.m3u8
 
