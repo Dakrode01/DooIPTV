@@ -592,3 +592,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesH
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/ZRgb7nSG/IMG-3986.png" group-title="ช่องกีฬา",Ais play 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://edge-2.m-fixer.net:8088/stream/ais/pga6/stream.m3u8?
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rentapi.blackboxsys.net/images/png/hd-spotv.png" group-title="ช่องกีฬา",SPOTV1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://www.monoomax.com/live/player/spotv1
