@@ -593,10 +593,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
 https://edge-2.m-fixer.net:8088/stream/ais/pga6/stream.m3u8?
 
-{"name":"SPOTV2", 
-"image":"https://api.cantstopwontstop.online/images/png/hd-spotv2.png", 
-"url": "https://www.monoomax.com/live/player/spotv2", 
-"referer": "https://www.monoomax.com/", 
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36", 
-"info": "", 
-"playInNatPlayer":"true"},
+#EXTINF:-1 tvg-id="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/R_0148.png"group-title="ช่องบันเทิง", HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 7.1.2; TV BOX Build/NHG47L) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/56.0.2924.87 Safari/537.36
+https://edge-2.m-fixer.net:8088/stream/ais/hbohd/stream.m3u8?uid=201081150
