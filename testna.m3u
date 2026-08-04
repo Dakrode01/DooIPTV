@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ABC News Live" tvg-logo="https://liveplayback.net/uploads/1774368084.png" group-title="ข่าว",ABC News Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/abcnews/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Al Jazeera English HD" tvg-logo="https://liveplayback.net/uploads/1730731551.png" group-title="ข่าว",Al Jazeera English HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/al-jazeera-english-hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Arirang" tvg-logo="https://liveplayback.net/uploads/1739186052.png" group-title="ข่าว",Arirang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/arirang/playlist.m3u8
